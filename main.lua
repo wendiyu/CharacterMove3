@@ -4,7 +4,7 @@
 -- Created by: Wendi Yu
 -- Created on: Apr 2018
 --
--- character move use the button and fix gravity
+-- character move and jump use the button and fix gravity
 -----------------------------------------------------------------------------------------
 
 -- Gravity
